@@ -11,7 +11,7 @@ A smart, privacy-focused AI text summarizer that transforms lengthy documents in
 ## 🚀 Live Demo
 
 **Visit the live application:**  
-👉 **[https://smart-ai-summariser-5paws8lc4-akarsh-sahlots-projects.vercel.app](https://smart-ai-summariser-5paws8lc4-akarsh-sahlots-projects.vercel.app)**
+👉 **https://smart-ai-summariser.vercel.app**
 
 ## ✨ Key Features
 
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Akash Sahlot** - [Live Demo](https://smart-ai-summariser-5paws8lc4-akarsh-sahlots-projects.vercel.app)
+- **Akash Sahlot** - [Live Demo]https://smart-ai-summariser.vercel.app
 
 ## 🙏 Acknowledgments
 
@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Love this tool? Found a bug? Want to suggest a feature?
 
 **Visit the live app and start summarizing!**  
-🔗 **[https://smart-ai-summariser-5paws8lc4-akarsh-sahlots-projects.vercel.app](https://smart-ai-summariser-5paws8lc4-akarsh-sahlots-projects.vercel.app)**
+🔗 **[https://smart-ai-summariser.vercel.app]**
 
 ---
 
@@ -209,6 +209,6 @@ Love this tool? Found a bug? Want to suggest a feature?
 
 *Stop drowning in information - start understanding with smart summaries!*
 
-[![Live Demo](https://img.shields.io/badge/🚀_Try_It_Now-Live_Demo-purple?style=for-the-badge&logo=vercel)](https://smart-ai-summariser-5paws8lc4-akarsh-sahlots-projects.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Try_It_Now-Live_Demo-purple?style=for-the-badge&logo=vercel)](https://smart-ai-summariser.vercel.app)
 
 </div>
